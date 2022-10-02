@@ -2,6 +2,6 @@
 
 the DOFE programming course
 
-the folders 'complete-javascript-course-master' folder contains differnet sections of the lecture, these sections contain a start and final folder. the start folders contain code that i have written (exluding the first nine due to a saving error)
-i am on section 10 lecture 131 as of writing this.
-i will be adding pushes to the gitHub as i progress
+05: guess my number, 06: modal and 07: pig game are all projects. the other files learning and using js in practice; there are also a few coding challenges which are like mini projects.
+
+from 0 - 9 MY code is in final, from 10 - 18 my code will be in starter. some github error innit.
